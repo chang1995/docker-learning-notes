@@ -5,6 +5,6 @@ Docker 官网：http://www.docker.com
 
 Github Docker 源码：https://github.com/docker/docker
 ## 特点
-1.虚拟环境容器 隔离 防止冲突
+1.容器运行，环境隔离
 
 2.简化环境部署
