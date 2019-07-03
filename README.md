@@ -8,3 +8,7 @@ Github Docker 源码：https://github.com/docker/docker
 1.容器运行，环境隔离
 
 2.简化环境部署
+
+## 基础概念
+
+× Docker 镜像(Images)：  	Docker 镜像是用于创建 Docker 容器的模板。
