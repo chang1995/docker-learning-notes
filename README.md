@@ -11,4 +11,5 @@ Github Docker 源码：https://github.com/docker/docker
 
 ## 基础概念
 
-× Docker 镜像(Images)：  	Docker 镜像是用于创建 Docker 容器的模板。
+Docker 镜像(Images)：  	Docker 镜像是用于创建 Docker 容器的模板。
+Docker 容器(Container)：    容器是独立运行的一个或一组应用。
